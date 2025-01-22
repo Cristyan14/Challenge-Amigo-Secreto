@@ -1,5 +1,8 @@
 # Amigo Secreto
 
+**Acesse o projeto online:**  
+[Amigo Secreto - Deploy no Vercel](https://challenge-amigo-secreto-neon.vercel.app/)
+
 ## Descrição
 Este projeto consiste em uma aplicação simples e interativa para organizar um sorteio de "Amigo Secreto". O usuário pode adicionar nomes a uma lista e, em seguida, realizar o sorteio para selecionar um amigo secreto de forma aleatória.  
 
